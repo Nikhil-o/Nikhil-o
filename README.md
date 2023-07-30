@@ -1,4 +1,5 @@
 ### Hi there mates 👋
+Thanks for visiting my profile!
 
 <!--
 **Nikhil-o/Nikhil-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
